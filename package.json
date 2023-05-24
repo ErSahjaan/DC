@@ -1,0 +1,16 @@
+{
+  "name": "nodekb",
+  "version": "1.0.0",
+  "description": "About md Sahjaan",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sahjaan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.2.0",
+    "pug": "^3.0.2"
+  }
+}
